@@ -1,6 +1,6 @@
 rotations = []
 
-with open('E:\VS Code\Advent\Advent_2025\input.txt') as f:
+with open('E:\VS Code\Advent_2025\Day 1\input.txt') as f:
     for strings in f:
         rotations.append(strings.strip())
 
